@@ -8,3 +8,4 @@ form av en lokke.
 4. Alle inoder blir lagret i et array som holder paa alle inodepekere.
 5. Deretter looper jeg gjennom alle inodene og setter pekerne til hverandre
 6. dette er ikke en fullstendig filsystem, men et system som fungerer greit :)
+7. All funksjonalitet ligger i inode.c
